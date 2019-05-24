@@ -1,0 +1,46 @@
+AUTHORS:
+    Nick Oka
+    Henzi Kou
+
+
+GAUSSIAN ELIMINATION
+
+Implementation of Gaussian elimination with scaled partial pivoting and the investigation of its numerical stability on some examples such as the Hilbert matrix. Final project for MATH 352 Numerical Analysis II at the University of Oregon Winter 2019.
+
+
+GETTING STARTED:
+
+These instructions will get you a copy of the project up and running on your local machine
+for development and testing purposes.
+
+Prerequisites:
+    - A working computer
+    - Python (Python versions 2.7.15 or 3.6 are the most optimal)
+
+
+DEPLOYMENT:
+
+How to run the program.
+    1. Open terminal/command prompt on a Mac/Windows device respectively by typing in
+	'terminal' or 'command prompt' in the spotlight search (for Macs) or the
+	windows search box (for Windows).
+
+    2. Navigate and locate the downloaded program, usually located in the Downloads folder
+	after initial download of the program, (if not then navigate to the location of 	the
+	program) by typing in the following commands in the terminal/command prompt:
+					cd ~/Downloads
+
+    3. Type 'ls' to list all files and directories within the current Downloads directory
+	and make sure that the file, "Oka_Kou_GaussianElimination.py" is listed.
+
+    4. After file is located type the following command: 
+				python3 Oka_Kou_GaussianElimination.py
+
+    5. Program is now running and prompts will guide you through the program.
+
+BUILT WITH:
+    - Python: Programming language written in
+    - Sublime Text: Text editor used to write the program
+
+
+
